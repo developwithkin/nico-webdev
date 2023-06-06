@@ -10,4 +10,5 @@ Teknologi yang digunakan
 - BOOTSTRAP
 - HTML
 - CSS
+- SASS
 - JS
